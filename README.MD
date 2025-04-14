@@ -11,7 +11,7 @@ Show how changes in **ad spend (Google Ads / Meta Ads)** impact **website traffi
 4. Optional SEO tie-in: use Google Search Console sample data or just simulate impressions/clicks by keyword.
 
 ## 🧪 Simulated Dataset Structure
-
+![alt text](/data/Screenshot%202025-04-14%20at%2014.00.15.png)
 ## 📝 Final Deliverables
 - Jupyter Notebook with:
     - Data cleaning
